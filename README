@@ -1,0 +1,15 @@
+Jeu pour Android développé sur Unity qui consiste à retrouver des paires de cartes dans un jeu de cartes retournées à difficulté et modes de jeu variables.
+Unity/C#
+
+MODES :
+
+  -Mode solo :
+    *Nombre d'essais limité
+    
+  -Mode multijoueur:
+    *Multijoueur local, système de points
+    
+  -Mode VS IA :
+    *Contre IA, système de points
+    
+Le jeu propose plusieurs difficultés affectant le nombre de cartes et le nombres de vies en mode solo.
